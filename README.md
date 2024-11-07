@@ -2,11 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.discordapp.net/attachments/948905473271300156/1304007755241361459/coding.gif?ex=672dd35c&is=672c81dc&hm=361a2fca62560730d32a2340c3aaf1e007bca4f7863f0f3642a38ee2cb77eba1&=&width=883&height=662">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishboy&label=Profile%20views&color=0e75b6&style=flat" alt="rishboy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishboy" alt="rishboy" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rishboy" target="blank"><img src="https://img.shields.io/twitter/follow/rishboy?logo=twitter&style=for-the-badge" alt="rishboy" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://rishboy.site/](https://rishboy.site/)
 
