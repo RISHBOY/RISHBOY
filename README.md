@@ -15,8 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rishboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishboy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishboy" height="30" width="40" /></a>
+<a href="https://rishboy.site/" target="blank"><img align="center" src="https://media.discordapp.net/attachments/1273022510618640485/1304022308805148753/my_rishboy_logo_white.png?ex=672de0e9&is=672c8f69&hm=156374660a5ceed5fed334fde8ea3d091b8f6151473246a64763f700b2e2b03d&=&format=webp&quality=lossless&width=437&height=437" alt="rishboy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rishithapawaridu.rishithapawaridu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="notikolla" height="30" width="40" /></a>
 <a href="https://instagram.com/rishboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishboy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@mrrishboy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrrishboy" height="30" width="40" /></a>
