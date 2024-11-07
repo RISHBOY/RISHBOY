@@ -19,8 +19,8 @@
 <a href="https://linkedin.com/in/rishboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishboy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rishithapawaridu.rishithapawaridu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="notikolla" height="30" width="40" /></a>
 <a href="https://instagram.com/rishboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishboy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mrrishboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrrishboy" height="30" width="40" /></a>
-<a href="https://discord.gg/rishboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishboy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mrrishboy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrrishboy" height="30" width="40" /></a>
+<a href="https://discord.gg/GQvxBxtXWg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishboy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
