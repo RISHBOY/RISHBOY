@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://rishboy.site/](https://rishboy.site/)
+- 👨‍💻 All of my projects are available at [https://social.rishboy.vip/](https://social.rishboy.vip/)
 
 - 💬 Ask me about **Windows,Kali Linux,Mac,Os,Android,Apple**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://rishboy.site/" target="blank"><img align="center" src="https://media.discordapp.net/attachments/1273022510618640485/1304022308805148753/my_rishboy_logo_white.png?ex=672de0e9&is=672c8f69&hm=156374660a5ceed5fed334fde8ea3d091b8f6151473246a64763f700b2e2b03d&=&format=webp&quality=lossless&width=437&height=437" alt="rishboy" height="30" width="40" /></a>
+<a href="https://social.rishboy.vip/" target="blank"><img align="center" src="https://media.discordapp.net/attachments/1221453597917581344/1401211535082389725/my_rishboy_logo_non_back_white_text.png?ex=688f736f&is=688e21ef&hm=5bf3d147700058f49e3daa009627bcf299a88e57b53f9de63521ab696683fb7a&=&format=webp&quality=lossless&width=1203&height=930" alt="rishboy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rishithapawaridu.rishithapawaridu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="notikolla" height="30" width="40" /></a>
 <a href="https://instagram.com/rishboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishboy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@mrrishboy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrrishboy" height="30" width="40" /></a>
